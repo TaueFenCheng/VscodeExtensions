@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.0.3
+
+### Patch Changes
+
+- ff91f4f: 更新 readme 文件
+
 ## 0.0.2
 
 ### Patch Changes
